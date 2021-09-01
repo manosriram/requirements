@@ -1,2 +1,1 @@
-torch===1.4.0  --find-links https://download.pytorch.org/whl/torch_stable.html
-torchvision===0.5.0  --find-links https://download.pytorch.org/whl/torch_stable.html
+numpy==1.18.5
